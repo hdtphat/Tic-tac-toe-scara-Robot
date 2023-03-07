@@ -1,0 +1,53 @@
+C:\Users\ADMIN\Desktop\Caro 3x3\Caro 3x3\bin\Debug\Caro 3x3.exe.config
+C:\Users\ADMIN\Desktop\Caro 3x3\Caro 3x3\bin\Debug\Caro 3x3.exe
+C:\Users\ADMIN\Desktop\Caro 3x3\Caro 3x3\bin\Debug\Caro 3x3.pdb
+C:\Users\ADMIN\Desktop\Caro 3x3\Caro 3x3\obj\Debug\Caro 3x3.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Caro 3x3\Caro 3x3\obj\Debug\Caro_3x3.Form1.resources
+C:\Users\ADMIN\Desktop\Caro 3x3\Caro 3x3\obj\Debug\Caro_3x3.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Caro 3x3\Caro 3x3\obj\Debug\Caro 3x3.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Caro 3x3\Caro 3x3\obj\Debug\Caro 3x3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Caro 3x3\Caro 3x3\obj\Debug\Caro 3x3.exe
+C:\Users\ADMIN\Desktop\Caro 3x3\Caro 3x3\obj\Debug\Caro 3x3.pdb
+C:\Users\ADMIN\Desktop\5x5\Caro 3x3\bin\Debug\Caro 3x3.exe.config
+C:\Users\ADMIN\Desktop\5x5\Caro 3x3\bin\Debug\Caro 3x3.exe
+C:\Users\ADMIN\Desktop\5x5\Caro 3x3\bin\Debug\Caro 3x3.pdb
+C:\Users\ADMIN\Desktop\5x5\Caro 3x3\obj\Debug\Caro 3x3.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\5x5\Caro 3x3\obj\Debug\Caro_3x3.Form1.resources
+C:\Users\ADMIN\Desktop\5x5\Caro 3x3\obj\Debug\Caro_3x3.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\5x5\Caro 3x3\obj\Debug\Caro 3x3.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\5x5\Caro 3x3\obj\Debug\Caro 3x3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\5x5\Caro 3x3\obj\Debug\Caro 3x3.exe
+C:\Users\ADMIN\Desktop\5x5\Caro 3x3\obj\Debug\Caro 3x3.pdb
+D:\PHUC\5x5\Caro 3x3\bin\Debug\Caro 3x3.exe.config
+D:\PHUC\5x5\Caro 3x3\bin\Debug\Caro 3x3.exe
+D:\PHUC\5x5\Caro 3x3\bin\Debug\Caro 3x3.pdb
+D:\PHUC\5x5\Caro 3x3\obj\Debug\Caro 3x3.csproj.AssemblyReference.cache
+D:\PHUC\5x5\Caro 3x3\obj\Debug\Caro 3x3.csproj.SuggestedBindingRedirects.cache
+D:\PHUC\5x5\Caro 3x3\obj\Debug\Caro_3x3.Form1.resources
+D:\PHUC\5x5\Caro 3x3\obj\Debug\Caro_3x3.Properties.Resources.resources
+D:\PHUC\5x5\Caro 3x3\obj\Debug\Caro 3x3.csproj.GenerateResource.cache
+D:\PHUC\5x5\Caro 3x3\obj\Debug\Caro 3x3.csproj.CoreCompileInputs.cache
+D:\PHUC\5x5\Caro 3x3\obj\Debug\Caro 3x3.exe
+D:\PHUC\5x5\Caro 3x3\obj\Debug\Caro 3x3.pdb
+C:\Users\phuc\OneDrive\Máy tính\7x7\Caro 3x3\bin\Debug\Caro 3x3.exe.config
+C:\Users\phuc\OneDrive\Máy tính\7x7\Caro 3x3\bin\Debug\Caro 3x3.exe
+C:\Users\phuc\OneDrive\Máy tính\7x7\Caro 3x3\bin\Debug\Caro 3x3.pdb
+C:\Users\phuc\OneDrive\Máy tính\7x7\Caro 3x3\obj\Debug\Caro 3x3.csproj.AssemblyReference.cache
+C:\Users\phuc\OneDrive\Máy tính\7x7\Caro 3x3\obj\Debug\Caro 3x3.csproj.SuggestedBindingRedirects.cache
+C:\Users\phuc\OneDrive\Máy tính\7x7\Caro 3x3\obj\Debug\Caro_3x3.Form1.resources
+C:\Users\phuc\OneDrive\Máy tính\7x7\Caro 3x3\obj\Debug\Caro_3x3.Properties.Resources.resources
+C:\Users\phuc\OneDrive\Máy tính\7x7\Caro 3x3\obj\Debug\Caro 3x3.csproj.GenerateResource.cache
+C:\Users\phuc\OneDrive\Máy tính\7x7\Caro 3x3\obj\Debug\Caro 3x3.csproj.CoreCompileInputs.cache
+C:\Users\phuc\OneDrive\Máy tính\7x7\Caro 3x3\obj\Debug\Caro 3x3.exe
+C:\Users\phuc\OneDrive\Máy tính\7x7\Caro 3x3\obj\Debug\Caro 3x3.pdb
+C:\Users\hoangphat\Documents\Arduino\SCARA robot_tic tac toe\gui\board_7\Caro 3x3\bin\Debug\Caro 3x3.exe.config
+C:\Users\hoangphat\Documents\Arduino\SCARA robot_tic tac toe\gui\board_7\Caro 3x3\bin\Debug\Caro 3x3.exe
+C:\Users\hoangphat\Documents\Arduino\SCARA robot_tic tac toe\gui\board_7\Caro 3x3\bin\Debug\Caro 3x3.pdb
+C:\Users\hoangphat\Documents\Arduino\SCARA robot_tic tac toe\gui\board_7\Caro 3x3\obj\Debug\Caro 3x3.csproj.AssemblyReference.cache
+C:\Users\hoangphat\Documents\Arduino\SCARA robot_tic tac toe\gui\board_7\Caro 3x3\obj\Debug\Caro 3x3.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoangphat\Documents\Arduino\SCARA robot_tic tac toe\gui\board_7\Caro 3x3\obj\Debug\Caro_3x3.Form1.resources
+C:\Users\hoangphat\Documents\Arduino\SCARA robot_tic tac toe\gui\board_7\Caro 3x3\obj\Debug\Caro_3x3.Properties.Resources.resources
+C:\Users\hoangphat\Documents\Arduino\SCARA robot_tic tac toe\gui\board_7\Caro 3x3\obj\Debug\Caro 3x3.csproj.GenerateResource.cache
+C:\Users\hoangphat\Documents\Arduino\SCARA robot_tic tac toe\gui\board_7\Caro 3x3\obj\Debug\Caro 3x3.csproj.CoreCompileInputs.cache
+C:\Users\hoangphat\Documents\Arduino\SCARA robot_tic tac toe\gui\board_7\Caro 3x3\obj\Debug\Caro 3x3.exe
+C:\Users\hoangphat\Documents\Arduino\SCARA robot_tic tac toe\gui\board_7\Caro 3x3\obj\Debug\Caro 3x3.pdb
